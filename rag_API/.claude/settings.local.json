@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(dir:*)",
+      "Bash(python:*)",
+      "Bash(where python)",
+      "Bash(\".venv/Scripts/python.exe\":*)",
+      "Bash(set PYTHONIOENCODING=utf-8)",
+      "Bash(rm:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
